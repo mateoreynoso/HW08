@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\data structure - 2018\hw08-ex03\hw08-ex03\source.cpp(27): warning C4018: '<': signed/unsigned mismatch
+d:\data structure - 2018\hw08-ex03\hw08-ex03\source.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\data structure - 2018\hw08-ex03\hw08-ex03\source.cpp(92): warning C4018: '<': signed/unsigned mismatch
+d:\data structure - 2018\hw08-ex03\hw08-ex03\source.cpp(87): warning C4715: 'PlaceQueen': not all control paths return a value
+  HW08-EX03.vcxproj -> D:\Data Structure - 2018\HW08-EX03\Debug\HW08-EX03.exe
